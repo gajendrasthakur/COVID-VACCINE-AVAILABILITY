@@ -18,3 +18,16 @@ or
 streamlit run [file-location]/app.py [ARGUMENTS]
 Example
 streamlit run e:/projects/python/Covid-Availability-Check-main/app.py [ARGUMENTS]
+
+
+What I want:
+
+> Whenever you use the piece of my CODE,
+> Don't forget to give me Credits.
+> I'll surely appreciate it.
+
+My Social Media Handle's
+`<https://www.instagram.com/gajendra_yt/>` :)
+
+http://gajendrasingh.tech - Also This is my!
+[Personal Website](http://gajendrasingh.tech)
