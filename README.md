@@ -1,10 +1,10 @@
 # Covid Vaccine Availability
-Tracking available slots for coronavirus vaccines in India. This app will pull data fron Cowin API rather than putting pressure on the main API.<br>
+## Tracking available slots for coronavirus vaccines in India. This app will pull data fron Cowin API rather than putting pressure on the main API.<br>
 ![](1.jpg)
 ![](2.jpg)
 ![](3.jpg)
 <br>
-You'll need this modules installed in your local machine
+### You'll need this modules installed in your local machine
 *  1. requests
 *  2. numpy
 *  3. pandas
