@@ -1,8 +1,12 @@
 # Covid Vaccine Availability
 ## Tracking available slots for coronavirus vaccines in India. This app will pull data fron Cowin API rather than putting pressure on the main API.<br>
-![](1.jpg)
-![](2.jpg)
-![](3.jpg)
+
+![OUTPUT SAMPLE](https://github.com/gajendra1405/COVID-VACCINE-AVAILABILITY/blob/main/output1.PNG)
+
+![OUTPUT SAMPLE](https://github.com/gajendra1405/COVID-VACCINE-AVAILABILITY/blob/main/output2.PNG)
+
+![OUTPUT SAMPLE](https://github.com/gajendra1405/COVID-VACCINE-AVAILABILITY/blob/main/output3.PNG)
+
 <br>
 ### You'll need this modules installed in your local machine
 *  1. requests
