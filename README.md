@@ -5,12 +5,12 @@ Tracking available slots for coronavirus vaccines in India. This app will pull d
 ![](3.jpg)
 <br>
 You'll need this modules installed in your local machine
-1. requests
-2. numpy
-3. pandas
-4. streamlit
-5. fake_useragent
-6. UserAgent
+* 1. requests
+* 2. numpy
+* 3. pandas
+* 4. streamlit
+* 5. fake_useragent
+* 6. UserAgent
 
 <br>
 -->> run *app.py* on your local machine. 
